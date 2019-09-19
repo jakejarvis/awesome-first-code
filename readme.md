@@ -26,7 +26,6 @@ If you see your name here and didn't add it, it's because I've done a few quick 
 - [maxedmands/foozle](https://github.com/maxedmands/foozle)
 - [JamesMcGuigan/starsfaq.com](https://github.com/JamesMcGuigan/starsfaq.com)
 - [robstarbuck/employboy](https://github.com/robstarbuck/employboy)
-- [olivierlacan/Stratego-v1](https://github.com/olivierlacan/Stratego-v1)
 - [Tusk98/WebsiteFrom98](https://github.com/Tusk98/WebsiteFrom98)
 - [huan/zhuohuan](https://github.com/huan/zhuohuan)
 - [darrenmothersele/permaphalt](https://github.com/darrenmothersele/permaphalt)
